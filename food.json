@@ -1,0 +1,23 @@
+[
+  {
+    "name": "JOLLIBEE",
+    "description": "Chicken Joy Yummy and Juicilicious",
+    "img": "https://maeservesyoufood.com/wp-content/uploads/2022/11/jollibee-chicken-joy-1.jpeg",
+    "lat": 8.367408,
+    "lng": 124.865351
+  },
+  {
+    "name": "MINUTE BURGER",
+    "description": "A premium beef patty with a unique pepper taste",
+    "img": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sWOYjX66CcK-pG-xRRKQaQTX42uDEMmcbR3WXqdC9UG4h_91NPdxdu2J4RShLHc0gOvhUYuiQy-OwgY23bB7MtCW9YdQ_a-K_rA7nxD8sFePDasSs1FpMZYQHcTgdx2Nw=s0-d",
+    "lat": 8.367527,
+    "lng": 124.864844
+  },
+  {
+    "name": "PA-PAFF",
+    "description": "A Japanese noodle soup dish featuring Chinese-style wheat noodles in a flavorful broth, typically topped with sliced pork, seaweed, and green onions",
+    "img": "https://assets.bonappetit.com/photos/57ae038653e63daf11a4e122/1:1/w_1920,c_limit/shoyu-ramen.jpg",
+    "lat": 8.367416,
+    "lng": 124.866848
+  }
+]
